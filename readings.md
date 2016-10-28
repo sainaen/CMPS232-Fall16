@@ -22,7 +22,7 @@
 |11/7|BFT |<a href="https://www.cs.utexas.edu/~lorenzo/papers/kotla07Zyzzyva.pdf">Zyzzyva: Speculative Byzantine Fault Tolerance (Kotla, SOSP 2007)</a>|Amber O'Connell, YIFENG LIU，Tianyi Lin, Yusi Xiang|
 |11/9|Cloud|<a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf">A view of cloud computing (Armbrust, CACM 53(4), 2010)</a>|Sinjoni, Ethan V,Vedashree, Jia Song, Yifeng Liu|
 |11/11|HOLIDAY|<a href=""></a>||
-|11/14|Butt|<a href="https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf">Towards a Butt Computing Research Agenda</a>|Devashish, Yuanjiang Ni, Ben, Reza|
+|11/14|Cloud|<a href="https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf">Towards a Cloud Computing Research Agenda</a>|Devashish, Yuanjiang Ni, Ben, Reza|
 |11/16|Programming models|<a href="http://www.sosp2007.org/papers/sosp064-aguilera.pdf">Sinfonia</a>|Aneesh Neelam, Jia Song, Alif Sarker|
 |11/18|Programming models|<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>|Sinjoni, Annlin, Kenneth Chang, Anirudh, Matt Bryson|
 |11/21|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>|Amber O'Connell, Tuan|
